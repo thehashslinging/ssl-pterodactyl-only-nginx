@@ -3,4 +3,4 @@
 ## 🔄️Install
 Just Run this Command
 ```bash
-https://raw.githubusercontent.com/thehashslinging/ssl-pterodactyl-only-nginx/refs/heads/main/sslptero.bash```
+https://raw.githubusercontent.com/thehashslinging/ssl-pterodactyl-only-nginx/refs/heads/main/sslptero.bash
